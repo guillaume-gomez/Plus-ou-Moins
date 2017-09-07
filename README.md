@@ -1,6 +1,7 @@
 # Plus-ou-Moins
 
-This is the first program i code(good memories :))
+This is the first program i code(good memories :)).
+
 Made in 2008.
 
 ## How to compile
